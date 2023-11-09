@@ -1,0 +1,7 @@
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Entradasaida\EntradaSaída\InverterNomes\bin\Debug\InverterNomes.exe.config
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Entradasaida\EntradaSaída\InverterNomes\bin\Debug\InverterNomes.exe
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Entradasaida\EntradaSaída\InverterNomes\bin\Debug\InverterNomes.pdb
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Entradasaida\EntradaSaída\InverterNomes\obj\Debug\InverterNomes.csproj.AssemblyReference.cache
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Entradasaida\EntradaSaída\InverterNomes\obj\Debug\InverterNomes.csproj.CoreCompileInputs.cache
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Entradasaida\EntradaSaída\InverterNomes\obj\Debug\InverterNomes.exe
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Entradasaida\EntradaSaída\InverterNomes\obj\Debug\InverterNomes.pdb

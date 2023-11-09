@@ -1,0 +1,7 @@
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Entradasaida\EntradaSaída\EntradaSaída\bin\Debug\EntradaSaída.exe.config
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Entradasaida\EntradaSaída\EntradaSaída\bin\Debug\EntradaSaída.exe
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Entradasaida\EntradaSaída\EntradaSaída\bin\Debug\EntradaSaída.pdb
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Entradasaida\EntradaSaída\EntradaSaída\obj\Debug\EntradaSaída.csproj.AssemblyReference.cache
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Entradasaida\EntradaSaída\EntradaSaída\obj\Debug\EntradaSaída.csproj.CoreCompileInputs.cache
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Entradasaida\EntradaSaída\EntradaSaída\obj\Debug\EntradaSaída.exe
+C:\Users\Vilberto\Documents\Estudando C# Udemy\Entradasaida\EntradaSaída\EntradaSaída\obj\Debug\EntradaSaída.pdb
